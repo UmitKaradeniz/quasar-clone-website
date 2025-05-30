@@ -40,8 +40,7 @@ Bu proje MIT lisansı ile lisanslanmıştır.
 
 ---
 Daha fazla bilgi ve özelleştirme için [Quasar belgelerine](https://quasar.dev/start/pick-quasar-flavour) göz atabilirsiniz.
-![photo_2023-06-02_21-55-09](https://github.com/user-attachments/assets/c58e54e1-b471-4841-b7![Screenshot_4](https://github.com/user-attachments/assets/046e0091-a371-4de0-8a48-5302acb6573a)
 ![Screenshot_3](https://github.com/user-attachments/assets/b491c40c-4a39-4209-bc25-d8dba82c428e)
 ![Screenshot_2](https://github.com/user-attachments/assets/8689deb4-287c-45f4-b7b7-59606c80b954)
 ![Screenshot_1](https://github.com/user-attachments/assets/2b6d8b5e-aec9-47e2-b2bc-5a0155d11dfb)
-11-1c912f5ec5f5)
+
