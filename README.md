@@ -1,6 +1,6 @@
 # Quasar Todo Uygulaması
 
-Bu proje, [Quasar Framework](https://quasar.dev/) ve Vue.js kullanılarak geliştirilmiş, temel bir todo ve ürün yönetim arayüzü sunar. Şu anda herhangi bir dış veri kaynağı veya backend (ör. Firebase) ile bağlantısı yoktur. Yalnızca arayüz ve temel Vue/Quasar kodlarını içerir.
+Bu proje, [Quasar Framework](https://quasar.dev/) ve Vue.js kullanılarak geliştirilmiş, temel bir todo ve ürün yönetim arayüzü sunar. Şu anda herhangi bir dış veri kaynağı veya backend (ör. Firebase) ile bağlantısı yoktur. Yalnızca arayüz ve temel Vue/Quasar kodlarını içerir. Proje Teknosa Clone Web Sitesidir. Proje üniversitede ilk yılımda yapmış olduğum kodları içerir.
 
 ## 🚀 Özellikler
 - Modern ve mobil uyumlu arayüz
